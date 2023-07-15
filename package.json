@@ -2,6 +2,7 @@
   "name": "all-javascript-extension-ebakecode",
   "displayName": "All JavaScript Extension EBakeCode",
   "description": "Very important extension pack for javascript (framework & library) and web development ...",
+  "publisher": "ebakecode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.80.0"
