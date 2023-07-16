@@ -41,8 +41,7 @@
     "onWebviewPanel:catCoding",
     "onCustomEditor:catCustoms.pawDraw",
     "onAuthenticationRequest:github",
-    "onStartupFinished",
-    "*"
+    "onStartupFinished"
 ],
 "contributes": {
   "commands": [
