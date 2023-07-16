@@ -109,9 +109,14 @@
     "firefox-devtools.vscode-firefox-debug", 
     "formulahendry.auto-close-tag", 
     "formulahendry.auto-rename-tag", 
+    "howardzuo.vscode-git-tags",
+    "letmaik.git-tree-compare",
+    "shyykoserhiy.git-autoconfig",
+    "teledemic.branch-warnings",
     "GitHub.codespaces", 
     "GitHub.copilot", 
     "GitHub.vscode-pull-request-github", 
+    "gitlab.gitlab-workflow",
     "GraphQL.vscode-graphql", 
     "GraphQL.vscode-graphql-syntax", 
     "Gruntfuggly.todo-tree", 
@@ -167,7 +172,16 @@
     "xabikos.JavaScriptSnippets", 
     "yzhang.markdown-all-in-one", 
     "zenghongtu.vscode-css-intellisense",
-    "felipecaputo.gitprojectmanager",
-    "davidanson.markdownlint"
+    "felipecaputo.git-project-manager",
+    "davidanson.vscode-markdownlint",
+    "donjayamanne.git-extension-pack",
+    "waderyan.gitblame",
+    "huizhou.githd",
+    "shaharkazaz.git-merger",
+    "vsls-contrib.gitdoc",
+    "ziyasal.vscode-open-in-github",
+    "letmaik.git-tree-compare",
+    "github.remotehub",
+    "arturock.gitstash"
   ]
 }
