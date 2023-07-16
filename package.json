@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/edekeemmanuel/all-javascript-extension-ebakecode"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -154,6 +154,7 @@
     "ziyasal.vscode-open-in-github",
     "letmaik.git-tree-compare",
     "github.remotehub",
-    "arturock.gitstash"
+    "arturock.gitstash",
+    "gulajavaministudio.javascript-complete-packs"
   ]
 }
