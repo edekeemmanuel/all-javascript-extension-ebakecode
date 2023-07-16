@@ -167,6 +167,8 @@
     "wmaurer.change-case", 
     "xabikos.JavaScriptSnippets", 
     "yzhang.markdown-all-in-one", 
-    "zenghongtu.vscode-css-intellisense"
+    "zenghongtu.vscode-css-intellisense",
+    "felipecaputo.gitprojectmanager",
+    "davidanson.markdownlint"
   ]
 }
