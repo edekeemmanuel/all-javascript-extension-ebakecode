@@ -3,11 +3,12 @@
   "displayName": "All JavaScript Extensions EBakeCode",
   "description": "Very important extension pack for javascript (framework & library) and web development ...",
   "publisher": "ebakecode",
+  "icon": "/jsl.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/edekeemmanuel/all-javascript-extension-ebakecode"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.80.0"
   },
