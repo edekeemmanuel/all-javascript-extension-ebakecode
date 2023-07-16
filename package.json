@@ -1,8 +1,13 @@
 {
   "name": "all-javascript-extension-ebakecode",
-  "displayName": "All JavaScript Extension EBakeCode",
+  "displayName": "All JavaScript Extensions EBakeCode",
   "description": "Very important extension pack for javascript (framework & library) and web development ...",
   "publisher": "ebakecode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edekeemmanuel/all-javascript-extension-ebakecode"
+  },
+  "icon": "/js.png",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.80.0"
@@ -10,6 +15,77 @@
   "categories": [
     "Extension Packs"
   ],
+  "main": "/README.md",
+  "activationEvents": [
+    "onLanguage:javascript",
+    "onLanguage:react",
+    "onLanguage:angular",
+    "onLanguage:vue",
+    "onLanguage:bootstrap",
+    "onLanguage:tailwind",
+    "onLanguage:json",
+    "onLanguage:markdown",
+    "onLanguage:typescript",
+    "onLanguage:mongodb",
+    "onLanguage:sql",
+    "onLanguage:mysql",
+    "onLanguage:html",
+    "onLanguage:css",
+    "onLanguage:vscode",
+    "onCommand:ebakecode.run",
+    "onDebug",
+    "workspaceContains:{**/*.md}",
+    "onFileSystem:sftp",
+    "onView:nodeDependencies",
+    "onUri",
+    "onWebviewPanel:catCoding",
+    "onCustomEditor:catCustoms.pawDraw",
+    "onAuthenticationRequest:github",
+    "onStartupFinished",
+    "*"
+],
+"contributes": {
+  "commands": [
+    {
+      "command": "ebakecode.run",
+      "title": "All JavaScript extensions"
+    }
+  ],
+  "breakpoints": [
+    {
+      "language": "javascript"
+    },
+    {
+      "language": "react"
+    },
+    {
+      "language": "angular"
+    },
+    {
+      "language": "vue"
+    }
+  ],
+  "colors": [
+    {
+      "id": "superstatus.error",
+      "description": "warning!!!",
+      "defaults": {
+        "dark": "errorForeground",
+        "light": "errorForeground",
+        "highContrast": "#010203",
+        "highContrastLight": "#feedc3"
+      }
+    }
+  ],
+  "keybindings": [
+    {
+      "command": "ebakecode.run",
+      "key": "ctrl+e",
+      "mac": "cmd+e",
+      "when": "editorTextFocus"
+    }
+  ]
+},
   "extensionPack": [ 
     "AlDuncanson.react-hooks-snippets", 
     "alefragnani.Bookmarks", 
