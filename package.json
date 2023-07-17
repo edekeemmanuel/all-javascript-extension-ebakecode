@@ -155,6 +155,24 @@
     "letmaik.git-tree-compare",
     "github.remotehub",
     "arturock.gitstash",
-    "gulajavaministudio.javascript-complete-packs"
+    "gulajavaministudio.javascript-complete-packs",
+    "ismanolgarcia.front-end-react-pack",
+    "prototyp.prototyp-react-pack",
+    "loiane.angular-extension-pack",
+    "coddictco.angular-vscode-pack",
+    "mubaidr.vuejs-extension-pack",
+    "andersonmfjr.vue-extension-pack",
+    "mathiasfrohlich.kotlin",
+    "flowtype.flow-for-vscode",
+    "doggy8088.angular-extension-pack",
+    "starkprogrammer.backend-snippets",
+    "abdulmoizahmer.backpacker-for-nodejs-developers",
+    "snippets.accessibility-snippets",
+    "joy-yu.css-snippets",
+    "ravioshankar.devops-toolbox",
+    "d4nyll.devops-extension-pack",
+    "tshafeev.devops-extension-pack",
+    "ms-python.pylint",
+    "ms-python.flake8"
   ]
 }
