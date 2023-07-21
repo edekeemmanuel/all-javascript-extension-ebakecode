@@ -4,4 +4,4 @@ This contains very important extension needed for JavasSript framework and libra
 
 It as well have the most basic extension and tools like AI, Python, GitHub and DevOps for web development.
 
-It is advisable you disable all extension and enables the extension useful for you to program effectively
+It is advisable you disable all extension and enables the extension useful for you to program effectively. To disable click the three dot beside hamburger button.
